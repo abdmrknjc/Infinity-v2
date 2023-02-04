@@ -1,0 +1,4 @@
+﻿  004.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\004\004\004.cpp(88,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\004\004\004.cpp(97,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  004.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\004\x64\Debug\004.exe

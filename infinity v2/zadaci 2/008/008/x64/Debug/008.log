@@ -1,0 +1,7 @@
+﻿  008.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\008\008\008.cpp(10,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\008\008\008.cpp(20,9): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\008\008\008.cpp(48,32): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\008\008\008.cpp(50,29): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\008\008\008.cpp(53,61): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  008.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\008\x64\Debug\008.exe

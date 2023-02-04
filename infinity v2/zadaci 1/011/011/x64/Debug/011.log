@@ -1,0 +1,3 @@
+﻿  011.cpp
+C:\Users\Abdullah\Desktop\infinity v2\prvi zadaci\011\011\011.cpp(49,14): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  011.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\prvi zadaci\011\x64\Debug\011.exe

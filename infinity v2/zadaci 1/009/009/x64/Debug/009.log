@@ -1,0 +1,3 @@
+﻿  009.cpp
+C:\Users\Abdullah\Desktop\infinity v2\prvi zadaci\009\009\009.cpp(57,13): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  009.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\prvi zadaci\009\x64\Debug\009.exe

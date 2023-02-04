@@ -1,0 +1,3 @@
+﻿  018.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\018\018\018.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  018.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\018\x64\Debug\018.exe

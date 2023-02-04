@@ -1,0 +1,4 @@
+﻿  010.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\010\010\010.cpp(5,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\010\010\010.cpp(13,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  010.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\010\x64\Debug\010.exe

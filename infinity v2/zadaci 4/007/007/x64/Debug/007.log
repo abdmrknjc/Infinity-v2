@@ -1,0 +1,6 @@
+﻿  007.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\007\007\007.cpp(40,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\007\007\007.cpp(73,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\007\007\007.cpp(87,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\007\007\007.cpp(82): warning C4172: returning address of local variable or temporary: prosjek
+  007.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 4\007\x64\Debug\007.exe

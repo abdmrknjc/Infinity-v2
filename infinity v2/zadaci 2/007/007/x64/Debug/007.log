@@ -1,0 +1,4 @@
+﻿  007.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\007\007\007.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\007\007\007.cpp(38,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  007.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 2\007\x64\Debug\007.exe

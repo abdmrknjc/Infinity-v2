@@ -1,0 +1,4 @@
+﻿  006.cpp
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 3\006\006\006.cpp(58,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abdullah\Desktop\infinity v2\zadaci 3\006\006\006.cpp(66,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  006.vcxproj -> C:\Users\Abdullah\Desktop\infinity v2\zadaci 3\006\x64\Debug\006.exe
