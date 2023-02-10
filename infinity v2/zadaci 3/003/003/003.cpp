@@ -18,6 +18,7 @@ void rekurzijaFib(int* niz, int vel, int brojac=0) {
 	if (brojac==0||brojac==1)
 	{
 		*(niz + brojac) = 1;
+                rekurzijaFib(niz,vel,brojac+1);
 	}
 	else if (*(niz + brojac-1)+*(niz+brojac-2) < 0) {
 		return;
@@ -39,4 +40,6 @@ int main() {
 	{
 		cout << *(niz + i)<<endl;
 	}
+        delete[] niz;
+        niz=nullptr;
 }
